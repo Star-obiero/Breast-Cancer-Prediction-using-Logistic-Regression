@@ -99,12 +99,12 @@ This can assist in early diagnosis and decision-making.
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clonehttps://github.com/Star-obiero/Breast-Cancer-Prediction-using-Logistic-Regression
 
 
 Navigate to the project folder:
 
-cd your-repo-name
+cd logisticreg.ipynb
 
 
 Open the Jupyter Notebook:
